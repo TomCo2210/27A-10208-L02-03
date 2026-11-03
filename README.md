@@ -1,6 +1,6 @@
-# 26B-10208-L02-03
+# 27A-10208-L02-03
 
-## 26B-10208-L02
+## 27A-10208-L02
 
 - Object-Oriented Programing - Overview
 - Git
@@ -9,3 +9,4 @@
 - Layouts - Relative Layout, Linear Layout
 - Resource Files - Strings, Dimens, Values, Colors
 - Multi Language Applications
+
